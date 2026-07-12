@@ -1,0 +1,9 @@
+Getting Started: After signing up, new users get a 14-day free trial with full access to all features. No credit card is required to start the trial.
+
+Pricing Tiers: The Starter plan is $19/month and supports up to 3 projects. The Pro plan is $49/month and supports unlimited projects plus priority support. The Enterprise plan includes custom SLAs and single sign-on (SSO).
+
+Data Export: Users on any paid plan can export their data at any time in CSV or JSON format from the Settings > Data page. Exports for large accounts may take up to 24 hours to prepare.
+
+Cancellation Policy: Subscriptions can be canceled at any time from the billing page. Access continues until the end of the current billing cycle, and there are no cancellation fees.
+
+Support Channels: Free and Starter users get email support with a 48-hour response target. Pro and Enterprise users get live chat support with a 4-hour response target during business hours.
